@@ -1,6 +1,6 @@
 # Uppercase Converter React App
 
-A simple React application that converts text from lowercase to uppercase.
+A simple React application that converts text from lowercase to Uppercase.
 
 ## Features
 - Convert text to UPPERCASE
