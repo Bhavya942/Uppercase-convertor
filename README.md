@@ -1,2 +1,19 @@
-<<<<<<< HEAD
->>>>>>> f2a6d4d7af4f1ddd535af280156f26f3dc56619d
+# Uppercase Converter React App
+
+A simple React application that converts text from lowercase to uppercase.
+
+## Features
+- Convert text to UPPERCASE
+- Live text update
+- Controlled textarea using React state
+- Clean UI with Bootstrap
+
+## Tech Stack
+- React JS
+- JavaScript (ES6)
+- Bootstrap 5
+
+## How to Run Locally
+```bash
+npm install
+npm start
